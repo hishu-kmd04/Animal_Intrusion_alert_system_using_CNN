@@ -1,9 +1,9 @@
 # Animal_Intrusion_alert_system_using_CNN
-Introduction
+**Introduction**
 
 This project aims to develop a system that automatically detects the presence of animals in specific areas, such as farms or restricted zones, using Convolutional Neural Networks (CNN). The system leverages machine learning techniques to identify animals in images or video feeds and triggers an alert when an intrusion is detected. The goal is to provide a real-time solution to prevent crop damage or unwanted intrusion by wild animals, enhancing security and protecting resources.
 
-Objectives
+**Objectives**
 
 To implement a CNN-based animal detection system for real-time intrusion alerts.
 To ensure high accuracy in recognizing various animals commonly seen in farm or restricted zones.
@@ -18,6 +18,6 @@ Frontend: HTML, CSS, JavaScript
 Backend: Python Flask
 
 
-Dataset Information
+**Dataset Information**
 
 The dataset used for training and testing the animal detection model is available in the Google Drive folder titled "animal_train_test_set". Inside this folder, there is a file called links.md that contains the link to the dataset. The dataset can be downloaded from the provided Google Drive link.
